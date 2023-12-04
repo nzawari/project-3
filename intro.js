@@ -8,6 +8,8 @@ $("#popop").hide();
 
 
 
+
+
 $("#h1-screen").click(function(){
     $("#screen-one").hide();
     $("#screen-two").show();
